@@ -1,0 +1,9 @@
+Package: deepnlp
+Type: Package
+Title: Deep Learning Neural Network Models (RNN, CNN, etc) in NLP
+Version: 1.1
+Date: 2016-01-04
+Author: Xichen Ding <rockingdingo@gmail.com>
+Maintainer: Xichen Ding <rockingdingo@gmail.com>
+Description: Build deep neural networks, like Convolutional neural network and Recurrent neural network, to solve NLP tasks, including document classification, sentiment analysis, prediction, etc.
+License: GPL (>= 2)
